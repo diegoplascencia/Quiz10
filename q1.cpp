@@ -10,7 +10,7 @@ int findThrees(int arre[], int x){
             sum = sum + arre[i];
         }
     }
-    return sum;
+    return sum;}
     
 int main(){
     int x;
